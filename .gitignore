@@ -2,3 +2,4 @@
 .DS_Store
 .env_shell.json
 .env
+.gcloud-config
